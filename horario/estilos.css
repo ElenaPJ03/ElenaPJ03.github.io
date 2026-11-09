@@ -3,8 +3,9 @@ caption{
     padding: 10px;
     text-align: center;
 }
+
 table, tr, th{
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     margin:auto;
 }
@@ -13,9 +14,57 @@ h1{
     text-align: center;
 }
 
+.programacion {
+    background-color: #d4e6f1;
+    padding: 10px; 
+}
+
+.bases-datos {
+    background-color: #d5f5e3; 
+    padding: 10px; 
+}
+
+.sistemas {
+    background-color: #fcf3cf; 
+    padding: 10px; 
+}
+
+.entornos {
+    background-color: #ebdef0; 
+    padding: 10px; 
+}
+
+.digitalizacion {
+    background-color: #a3e4d7; 
+    padding: 10px; 
+}
+
+.lenguaje-marcas {
+    background-color: #f5b7b1; 
+    padding: 10px; 
+}
+
+.ipe {
+    background-color: #e5e7e9;
+    padding: 10px;  
+}
+
+.sostenibilidad {
+    background-color: #d9f8c4;
+    padding: 10px;  
+}
+
+.recreo {
+    background-color: #d5dbdb; 
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    padding: 10px; 
+}
+
 footer{
     display: flex;
     align-items: flex-end; 
     justify-content: center;
-    height: 300px; 
+    height: 500px; 
 }
